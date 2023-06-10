@@ -1,8 +1,8 @@
 let playerScore = 0;
 let computerScore = 0;
-const rock = document.getElementById('rock');
-const paper = document.getElementById('paper');
-const scissors = document.getElementById('scissors');
+// const rock = document.getElementById('rock');
+// const paper = document.getElementById('paper');
+// const scissors = document.getElementById('scissors');
 const resultUI = document.getElementById('result');
 const playerScoreUI = document.getElementById('playerScore');
 const computerScoreUI = document.getElementById('computerScore');
